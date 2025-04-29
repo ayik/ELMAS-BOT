@@ -65,3 +65,4 @@
   </a>
 </p>
 
+`POWERED BY OBED TECH`
