@@ -1,4 +1,9 @@
-  ## THUNDER
+##  **HOPE YOU'RE CONNECTED TO THUNDER**
+
+
+
+[![THUNDER BOT](https://readme-typing-svg.demolab.com?font=Anton&size=25&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=340&lines=Have+a%F0%9F%91%8B!+Day;goodluck+on+your+deployment;programmed+by+Mungai+Yobih🥰)]
+
 <p align="center">
   <img src="https://files.catbox.moe/f27q3j.jpg" width="500"/>
 </p>
