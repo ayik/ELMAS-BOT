@@ -92,4 +92,12 @@
 ✦ Futuristic Cool ICY UI
 ```
 
+## 🌈 *THUNDER STATUS*
+
+```diff
++ Project Status: Active
+! Version: 5.0.0 Neon Edition
+# License: APACHE
+```
+
     `POWERED BY OBED TECH`
