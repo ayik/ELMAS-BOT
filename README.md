@@ -43,6 +43,15 @@
 [![Obed's Webesite is Here](https://img.shields.io/static/v1?label=ObedTech%20's&message=Websites&color=FF4500&style=for-the-badge&logo=firefox&logoColor=orange)](https://thunder-pair-generator.onrender.com/pair) 
 
 
+## *CONNECT WITH ME*
+<p>
+<a href="https://wa.me/26777821911"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/NjabuloJ/Njabulo-jb"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="Njabulo "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+</p>
+
+
 ## *THANKS TO OUR LOYAL FOLLOWES*
 <p align="center">
   <a href="https://github.com/Trippleo1802/Thunder/stargazers">
