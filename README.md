@@ -42,3 +42,17 @@
   ## *OBED WEBSITES*
 [![Obed's Webesite is Here](https://img.shields.io/static/v1?label=ObedTech%20's&message=Websites&color=FF4500&style=for-the-badge&logo=firefox&logoColor=orange)](https://thunder-pair-generator.onrender.com/pair) 
 
+
+
+<p align="center">
+  <a href="https://github.com/Trippleo1802/Hacknox2/stargazers">
+    <img src="https://reporoster.com/stars/dark/Trippleo1802/Hacknox2" alt="Stargazers repo roster for @Trippleo1802/Hacknox2">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Trippleo1802/Hacknox2/network/members">
+    <img src="https://reporoster.com/stars/dark/Trippleo1802/Hacknox2" alt="Forkers repo roster for @Trippleo1802/Hacknox2">
+  </a>
+</p>
+
