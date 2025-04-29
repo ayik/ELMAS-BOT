@@ -66,7 +66,7 @@
 </p>
 
 
-## 🏝️ PROJECT ARCHITECTS
+## 🏝️ *PROJECT ARCHITECTS*
 <div align="center">
   <a href="https://github.com/Trippleo1802">
     <img src="https://github-readme-stats.vercel.app/api?username=Trippleo1802&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
@@ -76,5 +76,15 @@
 <div align="center">
   <img src="https://github.com/Trippleo1802/Thunder/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
+
+## 🌈 *BOT FEATURES*
+
+```bash
+✦ Antidelete, Antiviewonce, Antilink
+✦ High speed YT, Tiktok, FB, IG Downloaders
+✦ 10+ AI models + Image anlysis AI
+✦ Fast low latensie, Powerful
+✦ Futuristic Cool ICY UI
+```
 
     `POWERED BY OBED TECH`
