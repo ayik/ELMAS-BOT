@@ -11,7 +11,7 @@
 ## *GET SESSION*
 [![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=orange)](https://thunder-pair-generator.onrender.com/pair) 
 
-  **QR CODE
+  
 <a href="https://dullah-md-scanner.onrender.comqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
